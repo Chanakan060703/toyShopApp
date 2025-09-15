@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MiniProject</string>
+
+    <!--URL-->
+    <string name="root_url">http://172.16.1.9:8085/miniWebService/</string>
+    <string name="register_url">user/add</string>
+    <string name="login_url">user/login</string>
+
+    <string name="list_user">user/list</string>
+
+    <string name="get_profile">user/getprofile</string>
+    <string name="update_user">user/update</string>
+    <string name="delete_user">user/delete</string>
+
+    <string name="product_list">product/list</string>
+    <string name="product_add">product/add</string>
+    <string name="product_update">product/update</string>
+    <string name="product_delete">product/delete</string>
+    <string name="product_search">product/search</string>
+
+    <string name="type_list">type/list</string>
+    <string name="type_add">type/add</string>
+
+    <string name="product_image">product-image/</string>
+    <string name="upload_image">upload-image/</string>
+
+    <!--ERROR-->
+    <string name="global">Error, please try again.</string>
+</resources>
