@@ -1,86 +1,93 @@
-# toyshop
+# 🧸 Toyshop – Mobile Shopping App  
 
-## Description
-
-toyshop is a simple to-do list application built as a full-stack project. It allows users to manage their tasks efficiently by providing features to create, read, update, and delete tasks.
-
-## Key Features
-
-- Add and delete tasks.
-- Mark tasks as completed.
-- Filter tasks by status (all, active, completed).
-- Responsive design for seamless usage across devices.
-
-## Technology Stack
-
-### Front-end
-- React
-- JavaScript
-- CSS
-
-### Back-end
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-
-## How to Run
-
-### Prerequisites
-Ensure you have the following installed on your system:
-- Node.js
-- npm (Node Package Manager)
-- A running MongoDB instance
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [your-repo-url]
-   ```
-
-2. Navigate to the project folder:
-   ```bash
-   cd [project-folder]
-   ```
-
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-
-### Running the Server
-
-1. Start the server:
-   ```bash
-   npm start
-   ```
-
-### Running the Client
-
-1. Navigate to the client folder:
-   ```bash
-   cd client
-   ```
-
-2. Start the client:
-   ```bash
-   npm start
-   ```
-
-## How to Use
-
-1. Open the application in your browser.
-2. Add tasks using the input field and "Add" button.
-3. Mark tasks as completed by clicking the checkbox next to each task.
-4. Delete tasks using the delete button.
-5. Use the filter options to view tasks by status (all, active, completed).
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+> A **mobile application** for browsing toys, viewing product details, and managing a shopping cart.  
+> Built as a **native Android app** using **Java + Firebase** 📱✨  
 
 ---
 
-Happy task managing!
+## ✨ Key Features  
+
+- 🛍 **Browse Toys** – View available toys with product details  
+- ➕ **Add to Cart** – Select toys and manage your shopping cart  
+- 🗑 **Remove Items** – Delete items directly from the cart  
+- ☁ **Cloud-Backed Data** – Store and sync data using Firebase  
+- 📱 **Mobile-Optimized UI** – Built with native Android components for smooth UX  
+
+---
+
+## 🛠 Technology Stack  
+
+| **Mobile App** | **Backend/Database** | **Tools** |
+| :------------- | :----------------- | :------- |
+| 📱 **Java (Android Studio)** | ☁ **Firebase (Firestore)** | 🛠 Android Emulator · GitHub |
+
+---
+
+## 🚀 Getting Started  
+
+### ✅ Prerequisites  
+
+- [Android Studio](https://developer.android.com/studio)  
+- Android Emulator **or** real Android device  
+- A Firebase project with Firestore enabled  
+
+---
+
+### 🔧 Setup  
+
+```bash
+# Clone the repository
+git clone https://github.com/Chanakan060703/toyShopApp
+cd toyShopApp
+
+# Open the project in Android Studio
+# Sync Gradle and connect your Firebase project (if needed)
+```
+
+---
+
+### ▶ Run the App  
+
+- Select your emulator or connect a physical device  
+- Click **Run ▶** in Android Studio  
+
+---
+
+## 📱 How It Works  
+
+1️⃣ **Browse Toys** – Open app and see available products  
+2️⃣ **Add to Cart** – Select toys you want to purchase  
+3️⃣ **Review Cart** – View or remove selected items  
+4️⃣ **Proceed to Checkout** – (Future enhancement) place order flow  
+
+---
+
+## 📂 Project Structure  
+
+```
+toyShopApp/
+├── app/src/main/java/   # Java source code
+├── app/src/main/res/    # Layouts, drawables, strings
+├── google-services.json # Firebase config
+└── build.gradle         # Gradle configuration
+```
+
+---
+
+## 🔗 Repository  
+
+[![View Project Code](https://img.shields.io/badge/🧸_View_Project_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanakan060703/toyShopApp)
+
+---
+
+## 📜 License  
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
+---
+
+## 📬 Contact  
+
+👤 **Chanakan Kongyen**  
+[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail)](mailto:Chonakankongyen@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Chanakan060703)
