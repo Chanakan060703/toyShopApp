@@ -86,8 +86,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-## 📬 Contact  
+## 📬 Contact
 
-👤 **Chanakan Kongyen**  
-[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail)](mailto:Chonakankongyen@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Chanakan060703)
+* **Name:** Chanakan Kongyen
+* **Email:** Chonakankongyen@gmail.com
+* **GitHub:** [github.com/Chanakan060703](https://github.com/Chanakan060703)
